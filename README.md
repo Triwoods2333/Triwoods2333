@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Triwoods2333
-- 👀 I’m interested in Linux and C
-- 🌱 I’m currently learning C primer plus
-- 💞️ I’m looking to collaborate on learning how to use Linux
+- 👀 I’m interested in 
+- 🌱 I’m currently learning 
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me : email:970913997@qq.com
 
 <!---
